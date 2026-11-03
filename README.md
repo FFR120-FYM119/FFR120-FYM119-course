@@ -1,4 +1,4 @@
-# FF120-FYM119-course: Simulation of Complex Systems
+# FFR120-FYM119-course: Simulation of Complex Systems
 <p align="left">
   <a href="https://iopscience.iop.org/book/mono/978-0-7503-3843-1">
     <img src="SOCS-9780750338431.jpg" width="250">
