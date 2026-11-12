@@ -22,3 +22,9 @@ ISBN: 978-0-7503-3843-1
 2. [**Ising model**](./Ch02_ising_model)  
    
 
+3. [**Forest fires**](./Ch03_forest_fires)  
+
+
+5. [**Brownian dynamics**](./Ch04_brownian_dynamics)  
+   
+
