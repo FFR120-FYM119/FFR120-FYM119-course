@@ -28,3 +28,9 @@ ISBN: 978-0-7503-3843-1
 5. [**Brownian dynamics**](./Ch04_brownian_dynamics)  
    
 
+8. [**Forest fires**](./Ch08_vicsek_model)  
+
+
+9. [**Living crystals**](./Ch09_living_crystals)  
+   
+
